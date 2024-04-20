@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1iLscCDL4PIE4Kiym-BcWa9LDPPcU96qV/view?usp=shari
 
 Estos links tambien estan en cada notebook y ahi se especifica cuales datos necesitan. Tambien puede descargarlos desde el propio Github. Los archivos se llaman base_de_datos_preprocesada.csv y data_resampled.csv
 
-Parte de la documentación del proyecto la puede encortrar en el archivo: Entrenamiento y Evaluación de Modelos.docx
+Parte de la documentación del proyecto la puede encortrar en el archivo: Entrenamiento y Evaluación de Modelos.pdf
